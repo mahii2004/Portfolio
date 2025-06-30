@@ -1,4 +1,4 @@
-# 💼 Developer Portfolio – Mahendra Reddy
+# 💼 Developer Portfolio – Mahendra Dadibathina
 
 This is my personal **portfolio website** built with **React.js** and integrated with **EmailJS API** to enable direct email messaging from the site. It showcases my projects, skills, and contact information in a clean, modern design.
 
